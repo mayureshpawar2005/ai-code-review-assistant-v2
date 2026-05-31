@@ -110,31 +110,31 @@ See [docs/API.md](docs/API.md) for endpoint details.
 
 ## Screenshots
 
-Preview images are included in [`screenshots/`](screenshots/). Replace them with your own captures for portfolio use.
+Screenshots of the application dashboard, code review engine, debug assistant, and Swagger API documentation are shown below.
 
 ### Dashboard
 
 Overview with API status, analysis engine, review metrics, and recent activity. **Local Analysis Active** appears when Gemini is unavailable.
 
-![Dashboard](screenshots/dashboard.svg)
+![Dashboard](screenshots/dashboard.png)
 
 ### Code Review Results
 
 Sample security review with score, issues, recommendations, and improved code.
 
-![Code Review Results](screenshots/code-review-results.svg)
+![Code Review Results](screenshots/code-review-results.png)
 
 ### Debug Assistant Results
 
 Split-view debugging with root cause, severity, confidence, and corrected code.
 
-![Debug Assistant Results](screenshots/debug-assistant-results.svg)
+![Debug Assistant Results](screenshots/debug-assistant-results.png)
 
 ### Swagger API Docs
 
 Interactive OpenAPI documentation at `http://localhost:8000/docs`.
 
-![Swagger API Docs](screenshots/swagger-api-docs.svg)
+![Swagger API Docs](screenshots/swagger-api-docs.png)
 
 **Capture your own screenshots:**
 
