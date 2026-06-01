@@ -76,8 +76,8 @@ copy .env.example .env   # Windows
 uvicorn app.main:app --reload
 ```
 
-API: http://localhost:8000  
-Docs: http://localhost:8000/docs
+API: localhost:8000  
+Docs: localhost:8000/docs
 
 ### Frontend
 
