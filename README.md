@@ -87,7 +87,7 @@ npm install
 npm run dev
 ```
 
-App: http://localhost:5173
+App: localhost:5173
 
 The Vite dev server proxies `/api` to `http://localhost:8000`.
 
@@ -140,10 +140,10 @@ Interactive OpenAPI documentation at `http://localhost:8000/docs`.
 
 | File | URL |
 |------|-----|
-| `dashboard.png` | http://localhost:5173/ |
-| `code-review-results.png` | http://localhost:5173/review |
-| `debug-assistant-results.png` | http://localhost:5173/debug |
-| `swagger-api-docs.png` | http://localhost:8000/docs |
+| `dashboard.png` | localhost:5173/ |
+| `code-review-results.png` | localhost:5173/review |
+| `debug-assistant-results.png` | localhost:5173/debug |
+| `swagger-api-docs.png` | localhost:8000/docs |
 
 ## Environment Variables
 
